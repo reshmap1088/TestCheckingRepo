@@ -3,7 +3,7 @@ public class Loop {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int i, j ,n=6;       
+		int i, j ,n=6;    
 		//Outer loop work for rows  
 		for (i=0; i<n; i++)   
 		{  
